@@ -1,0 +1,30 @@
+# .NET build artifacts
+bin/
+obj/
+
+# Visual Studio artifacts
+.vs/
+*.suo
+*.user
+
+# JetBrains Rider/Resharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# Logs and test results
+*.log
+TestResults/
+*.coverage
+*.coveragexml
+
+# Publish outputs
+**/publish/
+
+# Package artifacts
+*.nupkg
+packages/
+
+# Advent2025 app data files
+Advent2025.App/Inputs/*.txt
+Advent2025.App/Outputs/
