@@ -11,7 +11,7 @@
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
             "program": "${workspaceFolder}/Advent2025.App/bin/Debug/net9.0/Advent2025.App.dll",
-            "args": ["--test", "--part", "1", "--day", "3"],
+            "args": ["--test", "--part", "2", "--day", "4"],
             "cwd": "${workspaceFolder}/Advent2025.App",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
